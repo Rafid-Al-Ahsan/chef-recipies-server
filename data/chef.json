@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Ethan Bennett",
+        "years": "5",
+        "recipies": "20",
+        "likes": "2780",
+        "image": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "description": "As a seasoned chef with over a decade of experience, I've dedicated my life to the art of cooking. My culinary journey began in the heart of Paris, where I honed my skills and developed a deep appreciation for French cuisine. From there, I embarked on a global adventure, learning and mastering diverse cooking techniques from Tokyo to Tuscany. I'm known for my passion for using fresh, locally-sourced ingredients to create dishes that not only tantalize the taste buds but tell a story. Whether in the kitchen or sharing my knowledge with aspiring chefs, I'm committed to elevating the world of gastronomy. With a love for innovation and a dedication to tradition, I invite you to join me on a delicious culinary exploration, where every plate is a canvas for creativity and a celebration of flavors."   
+    },
+    {
+        "id": "2",
+        "name": "Liam Carter",
+        "years": "2",
+        "recipies": "7",
+        "likes": "480",
+        "image": "https://plus.unsplash.com/premium_photo-1682092183552-ce2b04e67e7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "description": "With a passion for the culinary arts, I've spent years perfecting my craft. My journey began in my grandmother's kitchen, where I learned the value of family recipes and traditional techniques. I've since traveled the world, exploring diverse cuisines and infusing them into my creations. My philosophy centers on using fresh, locally-sourced ingredients to elevate every dish. I believe that food should not only nourish the body but also feed the soul. Join me on a gastronomic adventure, where each plate is a testament to my love for the art of cooking"
+    },
+    {
+        "id": "3",
+        "name": "Ava Williams",
+        "years": "5",
+        "recipies": "4",
+        "likes": "329",
+        "image": "https://plus.unsplash.com/premium_photo-1683133742526-184884a79057?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "description": "As a culinary artist, my love for cooking knows no bounds. I started my culinary journey in a bustling street market, learning the vibrant flavors of street food. From there, I honed my skills in renowned kitchens, blending tradition with innovation. I believe in the power of fresh, seasonal ingredients to create memorable dining experiences. My dishes are a fusion of global inspiration, and I'm dedicated to sharing the joy of food with others. Join me as we explore the world's flavors and embark on a delicious adventure."
+    },
+    {
+        "id": "4",
+        "name": "Samuel Rodriguez",
+        "years": "7",
+        "recipies": "25",
+        "likes": "876",
+        "image": "https://plus.unsplash.com/premium_photo-1683707120233-0ad52cb97b7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+        "description": "From a young age, I found my calling in the kitchen, where I learned the art of cooking from my family's treasured recipes. With years of culinary exploration, I've cultivated a passion for creating unique flavor profiles. I embrace a farm-to-table philosophy, sourcing the finest local ingredients to craft dishes that delight the senses. My journey has taken me around the globe, allowing me to infuse international influences into my cooking. Join me in savoring the symphony of tastes and textures that my culinary creations bring to your plate."
+    },
+    {
+        "id": "5",
+        "name": "Sophia Mitchell",
+        "years": "9",
+        "recipies": "11",
+        "likes": "2456",
+        "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "description": "I'm a culinary storyteller, and every dish I create has a narrative. Growing up in a multicultural household, I was exposed to a world of flavors that ignited my passion for cooking. My culinary journey has taken me to the heart of culinary traditions in various countries, where I've refined my skills and blended diverse techniques. I'm a firm believer in the power of fresh, locally-sourced ingredients to elevate every bite. Join me as I embark on a gastronomic adventure, offering a taste of my culinary wanderlust, one plate at a time"
+    },
+    {
+        "id": "6",
+        "name": "Olivia Parker",
+        "years": "1",
+        "recipies": "2",
+        "likes": "587",
+        "image": "https://images.unsplash.com/photo-1556909114-44e3e70034e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "description": "With a lifelong love for the culinary arts, I've devoted myself to creating memorable dining experiences. My journey started in my family's kitchen, learning cherished recipes passed down through generations. Drawing inspiration from my global travels, I bring a fusion of flavors to every dish. I'm a strong advocate for sustainability, using locally-sourced ingredients to craft eco-conscious and delicious creations. Join me on a gastronomic voyage that celebrates diversity and culinary innovation. Every plate I serve is a canvas painted with passion and a love for food."
+    }
+]
