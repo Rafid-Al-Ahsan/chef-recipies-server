@@ -3,25 +3,87 @@
         "id": "1",
         "name": "Ethan Bennett",
         "years": "5",
-        "recipies": "20",
+        "recipies": "3",
         "likes": "2780",
         "image": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-        "description": "As a seasoned chef with over a decade of experience, I've dedicated my life to the art of cooking. My culinary journey began in the heart of Paris, where I honed my skills and developed a deep appreciation for French cuisine. From there, I embarked on a global adventure, learning and mastering diverse cooking techniques from Tokyo to Tuscany. I'm known for my passion for using fresh, locally-sourced ingredients to create dishes that not only tantalize the taste buds but tell a story. Whether in the kitchen or sharing my knowledge with aspiring chefs, I'm committed to elevating the world of gastronomy. With a love for innovation and a dedication to tradition, I invite you to join me on a delicious culinary exploration, where every plate is a canvas for creativity and a celebration of flavors."   
+        "description": "As a seasoned chef with over a decade of experience, I've dedicated my life to the art of cooking. My culinary journey began in the heart of Paris, where I honed my skills and developed a deep appreciation for French cuisine. From there, I embarked on a global adventure, learning and mastering diverse cooking techniques from Tokyo to Tuscany. I'm known for my passion for using fresh, locally-sourced ingredients to create dishes that not only tantalize the taste buds but tell a story. Whether in the kitchen or sharing my knowledge with aspiring chefs, I'm committed to elevating the world of gastronomy. With a love for innovation and a dedication to tradition, I invite you to join me on a delicious culinary exploration, where every plate is a canvas for creativity and a celebration of flavors.",
+        "recipieDetails": [
+              {
+                "id": "1",
+                "name": "Spaghetti Bolognese",
+                "ingredients": [
+                  "200g ground beef",
+                  "1 onion, chopped",
+                  "2 cloves garlic, minced",
+                  "1 can of crushed tomatoes",
+                  "1 teaspoon dried oregano",
+                  "Salt and pepper to taste",
+                  "200g spaghetti"
+                ],
+                "instructions": "Start by heating oil in a pan, then add chopped onion and minced garlic. After that, introduce ground beef and cook it until it's brown. Next, mix in crushed tomatoes, dried oregano, salt, and pepper, and let it simmer for 20 minutes. Meanwhile, cook spaghetti, and serve the sauce over the cooked pasta."
+              },
+              {
+                "id": "2",
+                "name": "Chicken Stir-Fry",
+                "ingredients": [
+                  "2 chicken breasts, cubed",
+                  "1 bell pepper, sliced",
+                  "1 cup broccoli florets",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon sesame oil",
+                  "1 teaspoon ginger, minced"
+                ],
+                "instructions": "Chicken Stir-Fry involves heating sesame oil in a pan, adding cubed chicken breasts, and cooking until they're no longer pink. Then, incorporate sliced bell pepper, broccoli florets, minced ginger, and soy sauce. Finally, cook until the vegetables are tender, and serve the stir-fry over rice."
+              },
+              {
+                "id": "3",
+                "name": "Vegetable Soup",
+                "ingredients": [
+                  "2 carrots, diced",
+                  "2 celery stalks, chopped",
+                  "1 onion, chopped",
+                  "4 cups vegetable broth",
+                  "1 cup mixed vegetables",
+                  "1 teaspoon thyme",
+                  "Salt and pepper to taste"
+                ],
+                "instructions": "Begin by sautéing diced carrots, chopped celery, and chopped onion in a pot. Add vegetable broth and mixed vegetables, allowing them to simmer until they're tender. Season the soup with thyme, salt, and pepper, and serve it hot."
+              }
+        ]
     },
+
     {
         "id": "2",
         "name": "Liam Carter",
         "years": "2",
-        "recipies": "7",
+        "recipies": "1",
         "likes": "480",
         "image": "https://plus.unsplash.com/premium_photo-1682092183552-ce2b04e67e7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-        "description": "With a passion for the culinary arts, I've spent years perfecting my craft. My journey began in my grandmother's kitchen, where I learned the value of family recipes and traditional techniques. I've since traveled the world, exploring diverse cuisines and infusing them into my creations. My philosophy centers on using fresh, locally-sourced ingredients to elevate every dish. I believe that food should not only nourish the body but also feed the soul. Join me on a gastronomic adventure, where each plate is a testament to my love for the art of cooking"
+        "description": "With a passion for the culinary arts, I've spent years perfecting my craft. My journey began in my grandmother's kitchen, where I learned the value of family recipes and traditional techniques. I've since traveled the world, exploring diverse cuisines and infusing them into my creations. My philosophy centers on using fresh, locally-sourced ingredients to elevate every dish. I believe that food should not only nourish the body but also feed the soul. Join me on a gastronomic adventure, where each plate is a testament to my love for the art of cooking",
+        "recipieDetails": [
+          {
+            "id": "1",
+            "name": "Mango Chicken Curry",
+            "ingredients": [
+              "2 chicken breasts, diced",
+              "1 ripe mango, cubed",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 can of coconut milk",
+              "2 tablespoons curry powder",
+              "Salt and pepper to taste"
+            ],
+            "instructions": "Mango Chicken Curry recipe, start by sautéing onions and garlic in a pan. Then, add diced chicken and cook it until browned. Stir in cubed mango and curry powder, and pour in coconut milk. Let it simmer until the sauce thickens, and season with salt and pepper. Finally, serve the flavorful curry over rice."
+          }
+         
+    ]       
+        
     },
     {
         "id": "3",
         "name": "Ava Williams",
         "years": "5",
-        "recipies": "4",
+        "recipies": "1",
         "likes": "329",
         "image": "https://plus.unsplash.com/premium_photo-1683133742526-184884a79057?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
         "description": "As a culinary artist, my love for cooking knows no bounds. I started my culinary journey in a bustling street market, learning the vibrant flavors of street food. From there, I honed my skills in renowned kitchens, blending tradition with innovation. I believe in the power of fresh, seasonal ingredients to create memorable dining experiences. My dishes are a fusion of global inspiration, and I'm dedicated to sharing the joy of food with others. Join me as we explore the world's flavors and embark on a delicious adventure."
@@ -30,7 +92,7 @@
         "id": "4",
         "name": "Samuel Rodriguez",
         "years": "7",
-        "recipies": "25",
+        "recipies": "2",
         "likes": "876",
         "image": "https://plus.unsplash.com/premium_photo-1683707120233-0ad52cb97b7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
         "description": "From a young age, I found my calling in the kitchen, where I learned the art of cooking from my family's treasured recipes. With years of culinary exploration, I've cultivated a passion for creating unique flavor profiles. I embrace a farm-to-table philosophy, sourcing the finest local ingredients to craft dishes that delight the senses. My journey has taken me around the globe, allowing me to infuse international influences into my cooking. Join me in savoring the symphony of tastes and textures that my culinary creations bring to your plate."
@@ -39,7 +101,7 @@
         "id": "5",
         "name": "Sophia Mitchell",
         "years": "9",
-        "recipies": "11",
+        "recipies": "1",
         "likes": "2456",
         "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
         "description": "I'm a culinary storyteller, and every dish I create has a narrative. Growing up in a multicultural household, I was exposed to a world of flavors that ignited my passion for cooking. My culinary journey has taken me to the heart of culinary traditions in various countries, where I've refined my skills and blended diverse techniques. I'm a firm believer in the power of fresh, locally-sourced ingredients to elevate every bite. Join me as I embark on a gastronomic adventure, offering a taste of my culinary wanderlust, one plate at a time"
