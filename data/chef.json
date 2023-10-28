@@ -73,10 +73,10 @@
               "2 tablespoons curry powder",
               "Salt and pepper to taste"
             ],
-            "instructions": "Mango Chicken Curry recipe, start by sautéing onions and garlic in a pan. Then, add diced chicken and cook it until browned. Stir in cubed mango and curry powder, and pour in coconut milk. Let it simmer until the sauce thickens, and season with salt and pepper. Finally, serve the flavorful curry over rice."
+            "instructions": "Mango Chicken Curry recipe, start by sautéing onions and garlic in a pan. Then, add diced chicken and cook it until browned. Stir in cubed mango and curry powder, and pour in coconut milk. Let it simmer until the sauce thickens, and season with salt and pepper. Finally, serve the flavorful curry over rice"
           }
-         
-    ]       
+    ]
+     
         
     },
     {
@@ -86,7 +86,22 @@
         "recipies": "1",
         "likes": "329",
         "image": "https://plus.unsplash.com/premium_photo-1683133742526-184884a79057?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-        "description": "As a culinary artist, my love for cooking knows no bounds. I started my culinary journey in a bustling street market, learning the vibrant flavors of street food. From there, I honed my skills in renowned kitchens, blending tradition with innovation. I believe in the power of fresh, seasonal ingredients to create memorable dining experiences. My dishes are a fusion of global inspiration, and I'm dedicated to sharing the joy of food with others. Join me as we explore the world's flavors and embark on a delicious adventure."
+        "description": "As a culinary artist, my love for cooking knows no bounds. I started my culinary journey in a bustling street market, learning the vibrant flavors of street food. From there, I honed my skills in renowned kitchens, blending tradition with innovation. I believe in the power of fresh, seasonal ingredients to create memorable dining experiences. My dishes are a fusion of global inspiration, and I'm dedicated to sharing the joy of food with others. Join me as we explore the world's flavors and embark on a delicious adventure.",
+        "recipieDetails": [
+          {
+            "id": "1",
+            "name": "Avocado Toast",
+            "ingredients": [
+              "2 slices of bread",
+              "1 ripe avocado",
+              "1 lemon, juiced",
+              "Red pepper flakes (optional)",
+              "Salt and pepper to taste"
+            ],
+            "instructions": "Avocado Toast, begin by toasting slices of bread. Next, mash a ripe avocado and mix it with fresh lemon juice. Spread the creamy avocado mixture over the toast and add a sprinkle of red pepper flakes for a kick if desired. Finish by seasoning with salt and pepper. Enjoy your simple and delicious avocado toast."
+          }
+         
+    ]  
     },
     {
         "id": "4",
@@ -95,7 +110,37 @@
         "recipies": "2",
         "likes": "876",
         "image": "https://plus.unsplash.com/premium_photo-1683707120233-0ad52cb97b7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
-        "description": "From a young age, I found my calling in the kitchen, where I learned the art of cooking from my family's treasured recipes. With years of culinary exploration, I've cultivated a passion for creating unique flavor profiles. I embrace a farm-to-table philosophy, sourcing the finest local ingredients to craft dishes that delight the senses. My journey has taken me around the globe, allowing me to infuse international influences into my cooking. Join me in savoring the symphony of tastes and textures that my culinary creations bring to your plate."
+        "description": "From a young age, I found my calling in the kitchen, where I learned the art of cooking from my family's treasured recipes. With years of culinary exploration, I've cultivated a passion for creating unique flavor profiles. I embrace a farm-to-table philosophy, sourcing the finest local ingredients to craft dishes that delight the senses. My journey has taken me around the globe, allowing me to infuse international influences into my cooking. Join me in savoring the symphony of tastes and textures that my culinary creations bring to your plate.",
+        "recipieDetails": [
+          {
+            "id": "1",
+            "name": "Greek Salad",
+            "ingredients": [
+              "2 cucumbers, diced",
+              "4 tomatoes, chopped",
+              "1 red onion, thinly sliced",
+              "200g feta cheese, crumbled",
+              "Kalamata olives",
+              "Olive oil and red wine vinegar for dressing",
+              "Fresh oregano leaves"
+            ],
+            "instructions": "Greek Salad combine diced cucumbers, chopped tomatoes, and thinly sliced red onions in a bowl. Top the mixture with crumbled feta cheese and Kalamata olives. Drizzle olive oil and red wine vinegar for dressing, and add fresh oregano leaves. Toss it all together, and serve this classic Greek salad."
+          },
+          {
+            "id": "2",
+            "name": "Vegetable Stir-Fry",
+            "ingredients": [
+              "2 cups mixed vegetables (bell peppers, broccoli, carrots)",
+              "1 tablespoon soy sauce",
+              "1 tablespoon teriyaki sauce",
+              "1 teaspoon sesame oil",
+              "1 clove garlic, minced",
+              "Cooked rice or noodles"
+            ],
+            "instructions": "Vegetable Stir-Fry  is quick and easy. Heat sesame oil in a pan, then add minced garlic and stir-fry a mix of bell peppers, broccoli, and carrots until they're crisp-tender. Incorporate soy sauce and teriyaki sauce for flavor, and cook until everything is heated through. Serve this delicious stir-fry over cooked rice or noodles."
+          }
+
+    ]
     },
     {
         "id": "5",
@@ -104,7 +149,25 @@
         "recipies": "1",
         "likes": "2456",
         "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-        "description": "I'm a culinary storyteller, and every dish I create has a narrative. Growing up in a multicultural household, I was exposed to a world of flavors that ignited my passion for cooking. My culinary journey has taken me to the heart of culinary traditions in various countries, where I've refined my skills and blended diverse techniques. I'm a firm believer in the power of fresh, locally-sourced ingredients to elevate every bite. Join me as I embark on a gastronomic adventure, offering a taste of my culinary wanderlust, one plate at a time"
+        "description": "I'm a culinary storyteller, and every dish I create has a narrative. Growing up in a multicultural household, I was exposed to a world of flavors that ignited my passion for cooking. My culinary journey has taken me to the heart of culinary traditions in various countries, where I've refined my skills and blended diverse techniques. I'm a firm believer in the power of fresh, locally-sourced ingredients to elevate every bite. Join me as I embark on a gastronomic adventure, offering a taste of my culinary wanderlust, one plate at a time.",
+        "recipieDetails": [
+          {
+            "id": "1",
+            "name": "Chocolate Chip Cookies",
+            "ingredients": [
+              "1 cup butter, softened",
+              "3/4 cup granulated sugar",
+              "3/4 cup brown sugar",
+              "2 large eggs",
+              "1 teaspoon vanilla extract",
+              "2 1/4 cups all-purpose flour",
+              "1 teaspoon baking soda",
+              "2 cups chocolate chips"
+            ],
+            "instructions": "Chocolate Chip Cookies preheat your oven to 350°F (175°C). Cream together softened butter, granulated sugar, and brown sugar until smooth. Beat in eggs and vanilla. In a separate bowl, combine all-purpose flour and baking soda, then add it to the butter mixture. Stir in chocolate chips. Drop the cookie dough by rounded tablespoons onto ungreased baking sheets. Bake for 10-12 minutes, and let the cookies cool on the baking sheet before transferring them to a wire rack. Enjoy your homemade chocolate chip cookies."
+          }
+         
+    ]  
     },
     {
         "id": "6",
@@ -113,6 +176,35 @@
         "recipies": "2",
         "likes": "587",
         "image": "https://images.unsplash.com/photo-1556909114-44e3e70034e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-        "description": "With a lifelong love for the culinary arts, I've devoted myself to creating memorable dining experiences. My journey started in my family's kitchen, learning cherished recipes passed down through generations. Drawing inspiration from my global travels, I bring a fusion of flavors to every dish. I'm a strong advocate for sustainability, using locally-sourced ingredients to craft eco-conscious and delicious creations. Join me on a gastronomic voyage that celebrates diversity and culinary innovation. Every plate I serve is a canvas painted with passion and a love for food."
+        "description": "With a lifelong love for the culinary arts, I've devoted myself to creating memorable dining experiences. My journey started in my family's kitchen, learning cherished recipes passed down through generations. Drawing inspiration from my global travels, I bring a fusion of flavors to every dish. I'm a strong advocate for sustainability, using locally-sourced ingredients to craft eco-conscious and delicious creations. Join me on a gastronomic voyage that celebrates diversity and culinary innovation. Every plate I serve is a canvas painted with passion and a love for food.",
+        "recipieDetails": [
+          {
+            "id": "1",
+            "name": "Caprese Salad",
+            "ingredients": [
+              "4 ripe tomatoes, sliced",
+              "200g fresh mozzarella, sliced",
+              "Fresh basil leaves",
+              "Extra-virgin olive oil",
+              "Balsamic vinegar",
+              "Salt and pepper to taste"
+            ],
+            "instructions": "Create a delightful 'Caprese Salad' by arranging sliced tomatoes and fresh mozzarella on a serving platter. Tuck fresh basil leaves between the tomato and mozzarella slices. Drizzle extra-virgin olive oil and balsamic vinegar over the top. Season with salt and pepper to taste. Serve this classic Italian salad as an appetizer or side dish."
+          },
+          {
+            "id": "2",
+            "name": "Grilled Veggie Wrap",
+            "ingredients": [
+              "Assorted grilled vegetables (bell peppers, zucchini, eggplant)",
+              "Hummus",
+              "Tortilla wraps",
+              "Fresh spinach leaves",
+              "Feta cheese, crumbled",
+              "Kalamata olives (optional)",
+              "Tzatziki sauce (optional)"
+            ],
+            "instructions": "Make a delicious 'Grilled Veggie Wrap' with a variety of grilled vegetables such as bell peppers, zucchini, and eggplant. Spread a layer of hummus on a tortilla wrap, then add grilled vegetables, fresh spinach leaves, crumbled feta cheese, and Kalamata olives if desired. You can also drizzle some tzatziki sauce for extra flavor. Roll up the wrap and enjoy this wholesome and flavorful meal."
+          }
+    ]
     }
 ]
